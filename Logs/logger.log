@@ -1,0 +1,6 @@
+2019-11-26 12:00:12.134 [main] INFO  com.epam.tests.CreateNewCustomer_002 - Browser got initiated
+2019-11-26 12:00:15.538 [main] INFO  com.epam.tests.CreateNewCustomer_002 - Accessing the url
+2019-11-26 12:00:16.664 [main] INFO  com.epam.tests.CreateNewCustomer_002 - Browser maximizing
+2019-11-26 12:00:17.199 [main] INFO  com.epam.tests.CreateNewCustomer_002 - CreateNewCustomer_002 - Started
+2019-11-26 12:00:30.209 [main] INFO  com.epam.tests.CreateNewCustomer_002 - User Registration is successful with fffff
+2019-11-26 12:00:32.209 [main] INFO  com.epam.tests.CreateNewCustomer_002 - CreateNewCustomer_002 - Ended
